@@ -1,1 +1,2 @@
 Hello i am file3.
+Special code for file2 is "01125532553", "01125542554".
